@@ -78,6 +78,50 @@
 // }
 
 
+// for1
+// let k =+prompt("son kiriting");
+// let n =+prompt("son kiriting");
+// for(let i=1; i<=n; i++){
+// console.log(k);
+// }
+
+
+// for2
+// let a =+prompt("son kiriting");
+// let b =+prompt("son kiriting");
+// let result=0;
+// for (let i=a; i<=b;i++){
+//     result= result +1;
+// console.log(i);
+// }
+// console.log("sanog'i"+ result);
+
+
+// for3
+// let a =+prompt("son kiriting");
+// let b =+prompt("son kiriting");
+// let result=0;
+// for (let i=b-1; i>a;i--){
+// console.log(i);
+// result++
+// }
+// console.log("sanog'i   "+ result);
+
+
+// for4
+// let a =+prompt("narxini kiriting");
+// for(let i=1; i<=10; i++){
+// console.log(a*i);
+// }
+
+
+// for5
+// let a =+prompt("narxini kiriting");
+// for(let i=0.1; i<=1; i=i+0.1){
+// console.log(a*i);
+// }
+
+
 // for6
 // let a = + prompt("son kiriting");
 // for (let i=1; i<=1; i+0.2){
